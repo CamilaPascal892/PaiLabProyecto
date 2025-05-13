@@ -1,0 +1,12 @@
+PRESENTACION DEL PROYECTO Y SU FUNCIONAMIENTO: 
+PAILAB está destinada a usuarios que administran un determinado número de revendendedores de diversos productos a lo largo del país. 
+Tiene un funcionamiento que solicita al administrador su nombre y contraseña. 
+Posteriormente, se accede a un formulario principal en donde aparecen diversas cuestiones para trabajar: 
+Revendedores - Lugares de reventa - Beneficios - Misiones - Administradores - Configuración (a desarrollar) - 
+Cierre de sesión ( deriva en el ingreso de datos del comienzo). 
+Es interesante destacar que con esta aplicación se apunta a una organización de los revendedores y también está 
+pensada para ser ampliada en diversos campos como son los productos que se venden, la configuración de la app 
+y también los diversos niveles que puedan adquirir los revendedores. 
+Es sólo el comienzo...
+
+Esperamos que disfrute su experiencia!!
