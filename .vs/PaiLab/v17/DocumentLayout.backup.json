@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.model\\beneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|solutionrelative:pailab.model\\beneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucbeneficios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucbeneficios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab\\ucbeneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucbeneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.model\\lugaresdereventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|solutionrelative:pailab.model\\lugaresdereventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.model\\revendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|solutionrelative:pailab.model\\revendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.controllers\\beneficioscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|solutionrelative:pailab.controllers\\beneficioscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.controllers\\lugaresdereventacontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|solutionrelative:pailab.controllers\\lugaresdereventacontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.controllers\\misionescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|solutionrelative:pailab.controllers\\misionescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucmisiones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucmisiones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.controllers\\administradorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|solutionrelative:pailab.controllers\\administradorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucbeneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucbeneficios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucrevendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucrevendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmabmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmabmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmfiltrolugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmfiltrolugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmabmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmabmadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\uclugaresdereventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\uclugaresdereventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.model\\misiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEFAB997-3A0A-4E0C-89AC-E13C8425456A}|PaiLab.Model\\PaiLab.Model.csproj|solutionrelative:pailab.model\\misiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|c:\\users\\usuario\\source\\repos\\pailab\\pailab.controllers\\revendedorescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C31D666-C63C-4253-9CD5-E1092C4AA149}|PaiLab.Controllers\\PaiLab.Controllers.csproj|solutionrelative:pailab.controllers\\revendedorescontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmfiltrolugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmfiltrolugares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\uclugaresdereventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\uclugaresdereventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmfiltrolugares.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmfiltrolugares.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucrevendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucrevendedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\uclugaresdereventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\uclugaresdereventa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmabmadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmabmadministrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\ucrevendedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\ucrevendedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|C:\\Users\\Usuario\\source\\repos\\PaiLab\\pailab\\frmingreso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BE0B36-AA7D-46E9-B5D8-DF310A169EAD}|PaiLab\\PaiLab.WinApp.csproj|solutionrelative:pailab\\frmingreso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCBeneficios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCBeneficios.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCBeneficios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCBeneficios.cs",
+              "RelativeToolTip": "PaiLab\\UCBeneficios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:21:37.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeneficiosControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\BeneficiosControllers.cs",
+              "RelativeDocumentMoniker": "PaiLab.Controllers\\BeneficiosControllers.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\BeneficiosControllers.cs",
+              "RelativeToolTip": "PaiLab.Controllers\\BeneficiosControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:59:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Beneficios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\Beneficios.cs",
+              "RelativeDocumentMoniker": "PaiLab.Model\\Beneficios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\Beneficios.cs",
+              "RelativeToolTip": "PaiLab.Model\\Beneficios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:01:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Revendedores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\Revendedores.cs",
+              "RelativeDocumentMoniker": "PaiLab.Model\\Revendedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\Revendedores.cs",
+              "RelativeToolTip": "PaiLab.Model\\Revendedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:10:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LugaresDeReventa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\LugaresDeReventa.cs",
+              "RelativeDocumentMoniker": "PaiLab.Model\\LugaresDeReventa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\LugaresDeReventa.cs",
+              "RelativeToolTip": "PaiLab.Model\\LugaresDeReventa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:45:41.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCBeneficios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCBeneficios.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCBeneficios.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCBeneficios.Designer.cs",
+              "RelativeToolTip": "PaiLab\\UCBeneficios.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:23:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LugaresDeReventaControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\LugaresDeReventaControllers.cs",
+              "RelativeDocumentMoniker": "PaiLab.Controllers\\LugaresDeReventaControllers.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\LugaresDeReventaControllers.cs",
+              "RelativeToolTip": "PaiLab.Controllers\\LugaresDeReventaControllers.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:09:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCMisiones.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCMisiones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCMisiones.cs",
+              "RelativeToolTip": "PaiLab\\UCMisiones.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAUwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:50:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MisionesControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\MisionesControllers.cs",
+              "RelativeDocumentMoniker": "PaiLab.Controllers\\MisionesControllers.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\MisionesControllers.cs",
+              "RelativeToolTip": "PaiLab.Controllers\\MisionesControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:43:36.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\Program.cs",
+              "RelativeDocumentMoniker": "PaiLab\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\Program.cs",
+              "RelativeToolTip": "PaiLab\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:44:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UCMisiones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCMisiones.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCMisiones.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCMisiones.Designer.cs",
+              "RelativeToolTip": "PaiLab\\UCMisiones.Designer.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAwwAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:45:57.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministradorControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\AdministradorControllers.cs",
+              "RelativeDocumentMoniker": "PaiLab.Controllers\\AdministradorControllers.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\AdministradorControllers.cs",
+              "RelativeToolTip": "PaiLab.Controllers\\AdministradorControllers.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAgwJQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T15:22:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\App.config",
+              "RelativeDocumentMoniker": "PaiLab\\App.config",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\App.config",
+              "RelativeToolTip": "PaiLab\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-12T20:47:23.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UCBeneficios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCBeneficios.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCBeneficios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCBeneficios.cs [Design]",
+              "RelativeToolTip": "PaiLab\\UCBeneficios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:18:01.367Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmIngreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmIngreso.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmIngreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\FrmIngreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T23:55:50.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UCRevendedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCRevendedores.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCRevendedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCRevendedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\UCRevendedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:30:02.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmABMAdministrador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmABMAdministrador.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmABMAdministrador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmABMAdministrador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\FrmABMAdministrador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:37:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UCMisiones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCMisiones.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCMisiones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCMisiones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\UCMisiones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:46:25.298Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmFiltroLugares.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmFiltroLugares.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmFiltroLugares.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmFiltroLugares.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\FrmFiltroLugares.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:54:15.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmABMAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmABMAdministrador.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmABMAdministrador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmABMAdministrador.cs",
+              "RelativeToolTip": "PaiLab\\FrmABMAdministrador.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwKUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:48:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "PaiLab\\FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T22:54:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmPrincipal.cs",
+              "RelativeToolTip": "PaiLab\\FrmPrincipal.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:19:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:11:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UCLugaresDeReventa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCLugaresDeReventa.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCLugaresDeReventa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCLugaresDeReventa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PaiLab\\UCLugaresDeReventa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:41:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Misiones.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\Misiones.cs",
+              "RelativeDocumentMoniker": "PaiLab.Model\\Misiones.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Model\\Misiones.cs",
+              "RelativeToolTip": "PaiLab.Model\\Misiones.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:38:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "PaiLab\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\Properties\\Resources.resx",
+              "RelativeToolTip": "PaiLab\\Properties\\Resources.resx",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwHsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-11T00:32:15.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "PaiLab\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\Properties\\Resources.resx",
+              "RelativeToolTip": "PaiLab\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-11T00:32:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmIngreso.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmIngreso.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmIngreso.cs",
+              "RelativeToolTip": "PaiLab\\FrmIngreso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:17:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmFiltroLugares.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmFiltroLugares.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmFiltroLugares.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmFiltroLugares.cs",
+              "RelativeToolTip": "PaiLab\\FrmFiltroLugares.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:54:22.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RevendedoresControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\RevendedoresControllers.cs",
+              "RelativeDocumentMoniker": "PaiLab.Controllers\\RevendedoresControllers.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab.Controllers\\RevendedoresControllers.cs",
+              "RelativeToolTip": "PaiLab.Controllers\\RevendedoresControllers.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:33:58.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UCLugaresDeReventa.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCLugaresDeReventa.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCLugaresDeReventa.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCLugaresDeReventa.cs",
+              "RelativeToolTip": "PaiLab\\UCLugaresDeReventa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:17:22.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmFiltroLugares.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmFiltroLugares.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmFiltroLugares.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmFiltroLugares.Designer.cs",
+              "RelativeToolTip": "PaiLab\\FrmFiltroLugares.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:56:00.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UCLugaresDeReventa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCLugaresDeReventa.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCLugaresDeReventa.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCLugaresDeReventa.Designer.cs",
+              "RelativeToolTip": "PaiLab\\UCLugaresDeReventa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:45:42.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UCRevendedores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCRevendedores.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCRevendedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCRevendedores.cs",
+              "RelativeToolTip": "PaiLab\\UCRevendedores.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:18:10.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmABMAdministrador.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmABMAdministrador.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmABMAdministrador.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmABMAdministrador.Designer.cs",
+              "RelativeToolTip": "PaiLab\\FrmABMAdministrador.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAYwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:02:34.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UCRevendedores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCRevendedores.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\UCRevendedores.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\UCRevendedores.Designer.cs",
+              "RelativeToolTip": "PaiLab\\UCRevendedores.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:50:28.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmIngreso.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmIngreso.Designer.cs",
+              "RelativeDocumentMoniker": "PaiLab\\FrmIngreso.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PaiLab\\PaiLab\\FrmIngreso.Designer.cs",
+              "RelativeToolTip": "PaiLab\\FrmIngreso.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:11:21.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

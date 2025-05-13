@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\bin\Debug\netstandard2.0\PaiLab.Controllers.deps.json
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\bin\Debug\netstandard2.0\PaiLab.Controllers.dll
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\bin\Debug\netstandard2.0\PaiLab.Controllers.pdb
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\bin\Debug\netstandard2.0\PaiLab.Model.dll
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\bin\Debug\netstandard2.0\PaiLab.Model.pdb
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.C.209C0F4B.Up2Date
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.dll
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Controllers\obj\Debug\netstandard2.0\PaiLab.Controllers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\bin\Debug\netstandard2.0\PaiLab.Model.deps.json
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\bin\Debug\netstandard2.0\PaiLab.Model.dll
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\bin\Debug\netstandard2.0\PaiLab.Model.pdb
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.dll
+C:\Users\Usuario\source\repos\PaiLab\PaiLab.Model\obj\Debug\netstandard2.0\PaiLab.Model.pdb
