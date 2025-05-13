@@ -1,0 +1,170 @@
+NOMBRE DE LA BASE DE DATOS: PaiLab
+REQUISITOS PREVIOS: 
+1. Tener instalado Microsoft SQL Server 
+2. Tener acceso a SQL Server Managment Studio (SSMS) u otra herramienta de administración. 
+3. Usuario con permisos para crear tablas
+Se adjunta en este documento la base de datos con sus correspondientes codigos, lista para ejecutar. 
+Script con data:
+------CREACION DE LA BASE DE DATOS------
+CREATE DATABASE [PaiLab];
+GO
+------SELECCION DE LA BASE DE DATOS------
+USE [PaiLab];
+GO
+------CREACION DE TABLAS----------------
+-- Tabla Administrador
+CREATE TABLE [dbo].[Administrador](
+	[IdAdministrador] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[NombreUsuario] NVARCHAR(50) NOT NULL,
+	[Contrasena] NVARCHAR(100) NOT NULL,
+	[NombreCompleto] NVARCHAR(100) NOT NULL,
+	[Email] NVARCHAR(100) NOT NULL,
+	[FechaRegistro] DATETIME NOT NULL
+);
+GO
+
+-- Tabla Beneficios
+CREATE TABLE [dbo].[Beneficios](
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] NVARCHAR(100),
+	[RevendedoresId] INT,
+	[TipoBeneficioId] INT,
+	[LugaresDeReventaId] INT
+);
+GO
+
+-- Tabla BeneficiosLugaresDeReventa
+CREATE TABLE [dbo].[BeneficiosLugaresDeReventa](
+	[BeneficioId] INT NOT NULL,
+	[LugarDeReventaId] INT NOT NULL,
+	PRIMARY KEY ([BeneficioId], [LugarDeReventaId])
+);
+GO
+
+-- Tabla LugaresDeReventa
+CREATE TABLE [dbo].[LugaresDeReventa](
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] NVARCHAR(100),
+	[Ubicacion] NVARCHAR(255),
+	[Descripcion] NVARCHAR(255),
+	[TipoMasVendido] NVARCHAR(100)
+);
+GO
+
+-- Tabla Misiones
+CREATE TABLE [dbo].[Misiones](
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] NVARCHAR(100),
+	[Descripcion] NVARCHAR(255),
+	[Dificultad] NVARCHAR(50)
+);
+GO
+
+-- Tabla MisionesLugaresDeReventa
+CREATE TABLE [dbo].[MisionesLugaresDeReventa](
+	[MisionId] INT NOT NULL,
+	[LugarDeReventaId] INT NOT NULL,
+	PRIMARY KEY ([MisionId], [LugarDeReventaId])
+);
+GO
+
+-- Tabla Nivel
+CREATE TABLE [dbo].[Nivel](
+	[Numeronivel] INT NOT NULL PRIMARY KEY,
+	[ExperienciaNecesaria] INT
+);
+GO
+
+-- Tabla Revendedores
+CREATE TABLE [dbo].[Revendedores](
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] NVARCHAR(100) NOT NULL,
+	[Especialidad] NVARCHAR(100),
+	[VentasRealizadas] INT,
+	[Nivel] INT,
+	[Experiencia] INT,
+	[MisionId] INT
+);
+GO
+
+-- Tabla TipoBeneficio
+CREATE TABLE [dbo].[TipoBeneficio](
+	[Id] INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] NVARCHAR(100) NOT NULL
+);
+GO
+
+-- Relaciones (FK)
+ALTER TABLE [dbo].[Beneficios]
+	ADD FOREIGN KEY ([LugaresDeReventaId]) REFERENCES [dbo].[LugaresDeReventa]([Id]),
+	FOREIGN KEY ([RevendedoresId]) REFERENCES [dbo].[Revendedores]([Id]),
+	FOREIGN KEY ([TipoBeneficioId]) REFERENCES [dbo].[TipoBeneficio]([Id]);
+GO
+
+ALTER TABLE [dbo].[BeneficiosLugaresDeReventa]
+	ADD FOREIGN KEY ([BeneficioId]) REFERENCES [dbo].[Beneficios]([Id]),
+	FOREIGN KEY ([LugarDeReventaId]) REFERENCES [dbo].[LugaresDeReventa]([Id]);
+GO
+
+ALTER TABLE [dbo].[MisionesLugaresDeReventa]
+	ADD FOREIGN KEY ([MisionId]) REFERENCES [dbo].[Misiones]([Id]),
+	FOREIGN KEY ([LugarDeReventaId]) REFERENCES [dbo].[LugaresDeReventa]([Id]) ON DELETE CASCADE;
+GO
+
+
+-- INSERSION DE DATOS DE PRUEBA-------------------
+-- Insertar datos en TipoBeneficio
+INSERT INTO dbo.TipoBeneficio (Nombre) VALUES
+('Descuento'), ('Regalo'), ('2x1'), ('Puntos extra'), ('Acceso VIP');
+
+-- Insertar datos en Nivel
+INSERT INTO dbo.Nivel (Numeronivel, ExperienciaNecesaria) VALUES
+(1, 0), (2, 100), (3, 250), (4, 500), (5, 800);
+
+-- Insertar datos en LugaresDeReventa
+INSERT INTO dbo.LugaresDeReventa (Nombre, Ubicacion, Descripcion, TipoMasVendido) VALUES
+('Kiosco Centro', 'Calle Falsa 123', 'Kiosco céntrico', 'Chocolates'),
+('Maxikiosco Norte', 'Av. Libertad 555', 'Muy concurrido', 'Bebidas'),
+('Puesto Plaza', 'Plaza Mayor', 'Puesto callejero', 'Snacks'),
+('Mini Market', 'San Martín 101', 'Autoservicio', 'Cigarrillos'),
+('Almacén Sur', 'Ruta 9 Km 35', 'Almacén rural', 'Galletitas');
+
+-- Insertar datos en Administrador
+INSERT INTO dbo.Administrador (NombreUsuario, Contrasena, NombreCompleto, Email, FechaRegistro) VALUES
+('admin1', 'pass123', 'Carlos Pérez', 'carlos@pailab.com', GETDATE()),
+('admin2', 'pass456', 'Lucía Gómez', 'lucia@pailab.com', GETDATE()),
+('admin3', 'pass789', 'Pedro Sánchez', 'pedro@pailab.com', GETDATE()),
+('admin4', 'passabc', 'Ana Martínez', 'ana@pailab.com', GETDATE()),
+('admin5', 'passxyz', 'Javier López', 'javier@pailab.com', GETDATE());
+
+-- Insertar datos en Misiones
+INSERT INTO dbo.Misiones (Nombre, Descripcion, Dificultad) VALUES
+('Misión 1', 'Vender 10 productos', 'Fácil'),
+('Misión 2', 'Vender en 3 lugares distintos', 'Media'),
+('Misión 3', 'Llegar a 500 ventas', 'Difícil'),
+('Misión 4', 'Reclutar un revendedor', 'Media'),
+('Misión 5', 'Visitar todos los puntos', 'Alta');
+
+-- Insertar datos en Revendedores
+INSERT INTO dbo.Revendedores (Nombre, Especialidad, VentasRealizadas, Nivel, Experiencia, MisionId) VALUES
+('Juan Torres', 'Bebidas', 150, 2, 200, 1),
+('María Ruiz', 'Snacks', 90, 1, 90, 2),
+('Luis Vega', 'Chocolates', 300, 3, 400, 3),
+('Carla Díaz', 'Cigarrillos', 500, 4, 800, 4),
+('Martín Soto', 'Galletitas', 70, 1, 60, 5);
+
+-- Insertar datos en Beneficios
+INSERT INTO dbo.Beneficios (Nombre, RevendedoresId, TipoBeneficioId) VALUES
+('Descuento 10%', 1, 1),
+('Pack gratis', 2, 2),
+('2x1 Snacks', 3, 3),
+('Puntos dobles', 4, 4),
+('Entrada exclusiva', 5, 5);
+
+-- Insertar datos en BeneficiosLugaresDeReventa
+INSERT INTO dbo.BeneficiosLugaresDeReventa (BeneficioId, LugarDeReventaId) VALUES
+(1,1), (2,2), (3,3), (4,4), (5,5);
+
+-- Insertar datos en MisionesLugaresDeReventa
+INSERT INTO dbo.MisionesLugaresDeReventa (MisionId, LugarDeReventaId) VALUES
+(1,1), (2,2), (3,3), (4,4), (5,5);

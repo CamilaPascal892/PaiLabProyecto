@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaiLab.Controllers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf065e99c452d6f1b1a9ac06118b8ea80f54629")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaiLab.Controllers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaiLab.Controllers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
